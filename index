@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>High-Yield Competitive Exam Notes</title>
+    <!-- Simple, clean CSS framework -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@1/css/pico.min.css">
+    <style>
+        body { padding: 20px; max-width: 900px; margin: auto; }
+        .card { border: 1px solid #e1e1e1; padding: 20px; border-radius: 8px; margin-bottom: 20px; }
+        .price { font-size: 1.4rem; font-weight: bold; color: #10b981; }
+        footer { font-size: 0.85rem; text-align: center; margin-top: 40px; border-top: 1px solid #ccc; padding-top: 20px; }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>📚 Complete Exam Notes & Study Modules</h1>
+        <p>High-yield notes for UPSC, PFRDA, SEBI, SSC, and Banking exams.</p>
+    </header>
+
+    <main>
+        <!-- Product 1 -->
+        <article class="card">
+            <h3>PFRDA Grade A / SEBI - Commerce & Accountancy</h3>
+            <p>Comprehensive PDF covering Financial Accounting, Costing, Corporate Governance, and Audit.</p>
+            <p class="price">₹99 <small>(One-time purchase)</small></p>
+            
+            <!-- Replace this link with your Razorpay Payment Link or Instamojo Link -->
+            <a href="YOUR_RAZORPAY_OR_INSTAMOJO_PAYMENT_LINK" target="_blank" role="button">Buy Now & Instant Download</a>
+        </article>
+
+        <!-- Product 2 -->
+        <article class="card">
+            <h3>UPSC Indian Polity & Governance Summaries</h3>
+            <p>Module covering Constitutional Amendments, Judgments, and Core Governance Topics.</p>
+            <p class="price">₹99 <small>(One-time purchase)</small></p>
+            
+            <a href="YOUR_RAZORPAY_OR_INSTAMOJO_PAYMENT_LINK" target="_blank" role="button">Buy Now & Instant Download</a>
+        </article>
+    </main>
+
+    <!-- MANDATORY COMPLIANCE FOOTER FOR PAYMENT GATEWAYS -->
+    <footer>
+        <p>© 2026 Competitive Exam Prep. All Rights Reserved.</p>
+        <p>
+            <a href="#terms">Terms & Conditions</a> | 
+            <a href="#privacy">Privacy Policy</a> | 
+            <a href="#refunds">Refund Policy</a> | 
+            <a href="#contact">Contact Support</a>
+        </p>
+
+        <!-- Compliance Content Anchors -->
+        <div id="terms" style="text-align: left; margin-top: 20px;">
+            <small><strong>Refund Policy:</strong> Due to the non-returnable nature of digital PDF study notes, all purchases are final. If you face any issues downloading your file, contact us at <code>support@example.com</code> for immediate replacement.</small>
+        </div>
+    </footer>
+
+</body>
+</html>
